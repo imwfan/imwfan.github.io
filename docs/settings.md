@@ -129,7 +129,7 @@ Example without hero:
 
 ```yaml
 # site.yml
-show_hero: false
+show_hero: true
 ```
 
 ![Home page without hero screenshot](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1566477862/page-without-hero-screenshot_gobnva.jpg)

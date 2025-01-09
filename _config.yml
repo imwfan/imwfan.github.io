@@ -1,7 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
+name: imwfan
+title: imwfan - Software engineer, Full-Stack web developer, and indie hacker.
+description: I’m imwfan, a software developer engineer based in Shenzhen, China. I love coding and travelling. Building something interesting and useful is my passion.
   Thiago Rossener.
 tags:
   - blog
@@ -19,7 +19,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: mlum1685540@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -29,17 +29,17 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+github_username: imwfan
 facebook_username: facebook_username
-twitter_username: twitter_username
+twitter_username: moyuvip666
 instagram_username: instagram_username
 linkedin_username: linkedin_username
 medium_username: medium_username
 
 
 # Posts Settings
-show_time_bar: true
-show_modal_on_exit: false
+show_time_bar: false
+show_modal_on_exit: true
 show_modal_on_finish_post: true
 two_columns_layout: true
 
@@ -48,7 +48,7 @@ two_columns_layout: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: "zh"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
@@ -110,4 +110,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.2
+# version: v3.1.2
